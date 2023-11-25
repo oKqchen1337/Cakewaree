@@ -31,9 +31,9 @@ Do **NOT** restart manually or cancel the process
 3. Delete / Clear the Secure Boot keys
 4. Install default Secure Boot keys
 
-## [Reinstall Windows](https://github.com/marcvs-dev/Gitbook/blob/main/fixes/broken-reference/README.md)
+## [Reinstall Windows](../windows-reinstall/clean-windows-reinstall.md)
 
-## [BIOS Setup](https://github.com/marcvs-dev/Gitbook/blob/main/fixes/broken-reference/README.md)
+## [BIOS Setup](../setup/bios-setup-other-mainboard.md)
 
 ## Disable SMT/Hyper-Threading
 
