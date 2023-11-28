@@ -51,9 +51,9 @@ How to disable Hyper-V
 
 <figure><img src="https://i.imgur.com/DCCAxBA.png" alt=""><figcaption></figcaption></figure>
 
-## [Download loader](https://github.com/marcvs-dev/Gitbook/blob/main/fixes/broken-reference/README.md)
+## [Download loader](../setup/download-loader.md)
 
-## [Spoof HWID](https://github.com/marcvs-dev/Gitbook/blob/main/fixes/broken-reference/README.md)
+## [Spoof HWID](../spoof/spoof-hwid.md)
 
 ## Configure gpedit.msc
 
