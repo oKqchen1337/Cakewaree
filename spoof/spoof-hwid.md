@@ -14,7 +14,8 @@ description: How to spoof HWID
 | Normal Spoof | Legit Spoof          |
 | ------------ | -------------------- |
 | Valorant     | Valorant             |
-|              | Fortnite tournaments |
+| Call of Duty | Fortnite tournaments |
+| FiveM        |                      |
 
 {% hint style="warning" %}
 **Legit Spoof** requires raid0 if your SSD is banned

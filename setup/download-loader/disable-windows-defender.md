@@ -17,4 +17,4 @@ description: How to disable Windows Defender
 3. Run dControl.exe
 4. Disable Windows Defender
 
-<figure><img src="../.gitbook/assets/Bild_2023-11-24_144016791.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Bild_2023-11-24_144016791.png" alt=""><figcaption></figcaption></figure>

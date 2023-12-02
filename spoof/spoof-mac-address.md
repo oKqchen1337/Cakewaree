@@ -1,18 +1,26 @@
 ---
-description: How to spoof MAC address
+description: How to set up network settings to avoid delay bans
 ---
 
-# Spoof MAC address
+# EAC, BE, RICOCHET: Network setup
 
-This step is only necessary and important when playing games that utilize the EAC (Easy Anti-Cheat) or BE (BattlEye) anti-cheat systems.
+{% hint style="info" %}
+This step is only necessary and important when playing games that utilize the EAC (Easy Anti-Cheat), BE (BattlEye) or RICOCHET anti-cheat systems.\
+\
+<mark style="color:red;">Don't use this for VALORANT</mark>
+{% endhint %}
 
-## E.g. list of EAC & BE games
 
-| EAC     | BE                |
-| ------- | ----------------- |
-| Fornite | Rainbow Six Siege |
-| Apex    | Ark               |
-| Rust    | PUBG              |
+
+## Example of EAC, BE and RICOCHET games&#x20;
+
+| EAC     | BE                | RICOCHET     |
+| ------- | ----------------- | ------------ |
+| Fornite | Rainbow Six Siege | Call of Duty |
+| Apex    | Ark               | Warzone 2.0  |
+| Rust    | PUBG              |              |
+
+
 
 ## Download TMAC
 

@@ -33,7 +33,7 @@ Do **NOT** restart manually or cancel the process
 
 ## [Reinstall Windows](../windows-reinstall/clean-windows-reinstall.md)
 
-## [BIOS Setup](../setup/bios-setup-other-mainboard.md)
+## [BIOS Setup](../setup/bios-setup/bios-setup-gigabyte/bios-setup-other-mainboard.md)
 
 ## Disable SMT/Hyper-Threading
 
@@ -51,7 +51,7 @@ How to disable Hyper-V
 
 <figure><img src="https://i.imgur.com/DCCAxBA.png" alt=""><figcaption></figcaption></figure>
 
-## [Download loader](../setup/download-loader.md)
+## [Download loader](../setup/download-loader/)
 
 ## [Spoof HWID](../spoof/spoof-hwid.md)
 

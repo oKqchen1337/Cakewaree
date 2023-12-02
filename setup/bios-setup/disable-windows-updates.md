@@ -9,4 +9,4 @@ description: How to disable Windows Updates
 3. Run Wub\_x64.exe
 4. Disable Windows Updates
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>

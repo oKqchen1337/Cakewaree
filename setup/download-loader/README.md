@@ -16,7 +16,7 @@ description: How to download loader
 1. Download DirectX [here](https://www.microsoft.com/en-US/download/details.aspx?id=35)
 2.  Uncheck **Install the Bing Bar**
 
-    <figure><img src="../.gitbook/assets/Bild_2023-11-24_144339496.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Bild_2023-11-24_144339496.png" alt=""><figcaption></figcaption></figure>
 3. Open installer and install it
 
 ## Updating GPU drivers
