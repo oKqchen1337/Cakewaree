@@ -2,7 +2,7 @@
 description: 'For Fortnite:'
 ---
 
-# Fortnite / Apex extra steps:
+# Fortnite Extra Steps.
 
 Install Cloudflare for Fortnite\
 (Use this during 1 Week)&#x20;
