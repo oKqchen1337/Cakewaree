@@ -46,3 +46,13 @@ This step is only necessary and important when playing games that utilize the EA
 4. Right-click and select **Disable device** on all other Network adapters
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+\
+
+
+### Use CloudFlare Warp <a href="#use-cloudflare-warp" id="use-cloudflare-warp"></a>
+
+1. Download CloudFlare Warp from [here](https://1.1.1.1/)​
+2. Always leave it **Connected** in the background\
+   \
+   [https://www.youtube.com/watch?v=PQHv5wnePS4](https://www.youtube.com/watch?v=PQHv5wnePS4)
