@@ -20,10 +20,10 @@ description: How to fix loader crash
     \> **Trusted Root Certification Authorities**\
     **> Certificate**
 
-    <figure><img src="../.gitbook/assets/Bild_2023-11-24_145201275.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/Bild_2023-12-02_173600902.png" alt=""><figcaption></figcaption></figure>
 3. If you have a Certificate called **Cloudflare Inc**, right-click and delete it
 4. If bluescreens still occur, disable GPU spoofing in the spoofers **Config** tab
 
 {% hint style="info" %}
-If you still have the problem contact us on our [Discord](https://discord.com/invite/radiantaim).
+If you still have the problem contact us on our [Discord](https://discord.gg/blacksw1pe).
 {% endhint %}

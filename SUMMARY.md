@@ -10,15 +10,15 @@
 
 ## Setup
 
+* [Disable Windows Defender](setup/disable-windows-defender.md)
+* [Disable Windows Updates](setup/disable-windows-updates.md)
 * [Bios Setup](setup/bios-setup/README.md)
   * [BIOS setup Asus](setup/bios-setup/bios-setup-asus.md)
   * [BIOS setup MSI](setup/bios-setup/bios-setup-msi.md)
-  * [BIOS setup Gigabyte](setup/bios-setup/bios-setup-gigabyte/README.md)
-    * [BIOS setup other mainboard](setup/bios-setup/bios-setup-gigabyte/bios-setup-other-mainboard.md)
-* [Download loader](setup/download-loader/README.md)
-  * [Disable Windows Defender](setup/download-loader/disable-windows-defender.md)
+  * [BIOS setup Gigabyte](setup/bios-setup/bios-setup-gigabyte.md)
+  * [BIOS setup other mainboard](setup/bios-setup/bios-setup-other-mainboard.md)
+* [Download loader](setup/download-loader.md)
 * [VALORANT: Bypass TPM](setup/valorant-bypass-tpm.md)
-* [Disable Windows Updates](setup/disable-windows-updates.md)
 
 ## Spoof
 
@@ -27,5 +27,4 @@
 
 ## Fixes
 
-* [TPM Pop-up bypass (AMD only!)](fixes/tpm-pop-up-bypass-amd-only.md)
 * [Loader crash / bluescreen](fixes/loader-crash-bluescreen.md)
