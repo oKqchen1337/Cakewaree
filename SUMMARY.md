@@ -22,6 +22,7 @@
 
 ## Spoof
 
+* [Fortnite / Apex extra steps:](spoof/fortnite-apex-extra-steps.md)
 * [Spoof HWID](spoof/spoof-hwid.md)
 * [EAC, BE, RICOCHET: Network setup](spoof/spoof-mac-address.md)
 
