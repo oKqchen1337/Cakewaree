@@ -17,15 +17,9 @@
   * [BIOS setup MSI](setup/bios-setup/bios-setup-msi.md)
   * [BIOS setup Gigabyte](setup/bios-setup/bios-setup-gigabyte.md)
   * [BIOS setup other mainboard](setup/bios-setup/bios-setup-other-mainboard.md)
-* [Download loader](setup/download-loader.md)
 * [VALORANT: Bypass TPM](setup/valorant-bypass-tpm.md)
 
 ## Spoof
 
 * [Spoof HWID](spoof/spoof-hwid.md)
-* [EAC, BE, RICOCHET: Network setup](spoof/spoof-mac-address.md)
 * [Fortnite Extra Steps.](spoof/fortnite-extra-steps..md)
-
-## Fixes
-
-* [Loader crash / bluescreen](fixes/loader-crash-bluescreen.md)
