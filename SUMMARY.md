@@ -11,7 +11,6 @@
 ## Setup
 
 * [Disable Windows Defender](setup/disable-windows-defender.md)
-* [Disable Windows Updates](setup/disable-windows-updates.md)
 * [Bios Setup](setup/bios-setup/README.md)
   * [BIOS setup Asus](setup/bios-setup/bios-setup-asus.md)
   * [BIOS setup MSI](setup/bios-setup/bios-setup-msi.md)
@@ -22,4 +21,4 @@
 ## Spoof
 
 * [Spoof HWID](spoof/spoof-hwid.md)
-* [Fortnite Extra Steps.](spoof/fortnite-extra-steps..md)
+* [Fortnite Extra Steps](spoof/fortnite-extra-steps..md)
